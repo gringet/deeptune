@@ -1,0 +1,7 @@
+mido
+pandas
+requests
+beautifulsoup4
+matplotlib
+tensorflow
+keras
